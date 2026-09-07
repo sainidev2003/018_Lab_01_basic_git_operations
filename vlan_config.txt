@@ -1,0 +1,30 @@
+vlan 1
+ name VLAN_1
+!
+vlan 2
+ name VLAN_2
+!
+vlan 3
+ name VLAN_3
+!
+vlan 4
+ name VLAN_4
+!
+vlan 5
+ name VLAN_5
+!
+vlan 6
+ name VLAN_6
+!
+vlan 7
+ name VLAN_7
+!
+vlan 8
+ name VLAN_8
+!
+vlan 9
+ name VLAN_9
+!
+vlan 10
+ name VLAN_10
+!

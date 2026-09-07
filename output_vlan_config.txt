@@ -1,0 +1,30 @@
+vlan 1
+ name VLAN_1
+exit
+vlan 2
+ name VLAN_2
+exit
+vlan 3
+ name VLAN_3
+exit
+vlan 4
+ name VLAN_4
+exit
+vlan 5
+ name VLAN_5
+exit
+vlan 6
+ name VLAN_6
+exit
+vlan 7
+ name VLAN_7
+exit
+vlan 8
+ name VLAN_8
+exit
+vlan 9
+ name VLAN_9
+exit
+vlan 10
+ name VLAN_10
+exit
