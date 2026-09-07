@@ -1,0 +1,6 @@
+vlan 1
+ name VLAN_1
+exit
+vlan 2
+ name VLAN_2
+exit
