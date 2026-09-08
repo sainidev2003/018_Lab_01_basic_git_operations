@@ -5,3 +5,6 @@ devices:
   - name: access_Switch_01
     type: cisco_ios
     ip: 192.168.1.2
+  - name: distribution_Switch_01
+    type: cisco_ios
+    ip: 192.168.1.3
