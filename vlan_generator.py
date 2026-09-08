@@ -1,5 +1,6 @@
 # vlan_generator.py**********************************
-# *** this is the change done by me **********************
+#****************** BRANCH B********************
+
 def generate_vlans(start_vlan, end_vlan, vendor="cisco"):
     config = []
 
